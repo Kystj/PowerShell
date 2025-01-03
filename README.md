@@ -1,6 +1,6 @@
 # PowerShell Scripts Collection
 
-Welcome to the **PowerShell Scripts Collection** repository! This repository contains a set of PowerShell scripts designed to automate and simplify various tasks.
+Welcome to my PowerShell Scripts Collection repository! This repository contains a set of PowerShell scripts designed to automate and simplify various tasks.
 
 ## 📋 Table of Contents
 
@@ -8,8 +8,7 @@ Welcome to the **PowerShell Scripts Collection** repository! This repository con
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Scripts](#scripts)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## 🔍 About
 
